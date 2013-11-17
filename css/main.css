@@ -1,0 +1,36 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.center-block iframe{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#mc_embed_signup{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+

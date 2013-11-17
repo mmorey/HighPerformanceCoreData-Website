@@ -1,0 +1,11 @@
+name: "High Performance Core Data"
+keywords:
+- Matthew Morey
+- Core Data
+markdown: redcarpet
+redcarpet:
+  extensions: []
+permalink: /:title
+pygments: true
+exclude: [README.md, TODO.md, Gemfile*]
+safe: true
