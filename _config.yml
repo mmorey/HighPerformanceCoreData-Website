@@ -6,6 +6,6 @@ markdown: redcarpet
 redcarpet:
   extensions: []
 permalink: /:title
-pygments: true
+highlighter: pygments
 exclude: [README.md, TODO.md, Gemfile*]
 safe: true
